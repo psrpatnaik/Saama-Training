@@ -1,0 +1,67 @@
+Lab: Control your AWS costs With the AWS Free Tier and AWS Budgets 
+https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/
+
+Guide: Concepts Terminologies in VPC
+https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+
+Video: Concepts Terminologies in VPC and Designing VPC [Important, Participants are expected to go in detail through the Video]
+https://www.youtube.com/watch?v=rQvl-V3tLiQ
+
+Lab: Implement the Following Labs based on VPC
+	1) https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario1.html
+	2) https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html
+	Delete VPC subnets created in 1) and 2) before starting with 3
+	3) https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
+	
+Guide: Get Acquaint [Setup, Configure, IDE tour] with AWS Cloud9 IDE by following the Getting started guide
+https://docs.aws.amazon.com/cloud9/latest/user-guide/welcome.html
+
+Video: Using AWS Cloud9 IDE
+https://www.youtube.com/watch?v=u1D1KVECjiY
+
+
+Lab: Configure Cloud9 IDE to run AWS Java SDK code samples
+https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-java.html
+
+Project:
+Create and Manage a Nonrelational Database with Amazon DynamoDB (Requires acquaintance of Cloud9 IDE )
+https://aws.amazon.com/getting-started/projects/create-manage-nonrelational-database-dynamodb/
+
+Lab: Run a Serverless "Hello, World!"
+https://aws.amazon.com/getting-started/tutorials/run-serverless-code/?trk=gs_card
+
+Guide: AWS Step Functions
+https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html
+
+Lab: Create a Serverless Workflow with AWS Step Functions and AWS Lambda
+https://aws.amazon.com/getting-started/tutorials/create-a-serverless-workflow-step-functions-lambda
+
+Video: AWS Analytics Services Overview
+https://www.aws.training/learningobject/video?id=16202
+
+Guide: Microservices on AWS [Participants are expected to go in detail through the Guide]
+https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/introduction.html
+
+=================================================================================================================
+Video PlayList: Get started with AWS Lambda + API Gateway + DyanmoDB(Node.JS)
+https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc
+
+Lab: API Gateway + Lambda Proxy Integration using JAVA
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html#api-gateway-proxy-integration-create-lambda-backend
+
+
+Video Lab: Introducing AWS Cloud9 - AWS Online Tech Talks 
+https://www.youtube.com/watch?v=FvclLeg2vEQ
+https://github.com/nonken/static-demo
+
+For Hands On sessions on RedShift, EMR, Kinesis
+
+AWS Learning Library
+https://www.aws.training/LearningLibrary
+
+AWS Resources Use Cases:
+https://aws.amazon.com/getting-started/use-cases/
+
+
+
+

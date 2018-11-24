@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=FvclLeg2vEQ CLOUD9
+
+https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/?trk=gs_card 
+
+
+SlideShare PPTs:
+AWS Security Fundamentals
+https://www.slideshare.net/AmazonWebServices/aws-security-fundamentals-81681596
+
