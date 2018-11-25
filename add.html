@@ -1,0 +1,31 @@
+<html>
+<script>
+function add(){
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("result").innerHTML =
+      this.responseText;
+    }
+  };
+  num1= document.getElementById("num1");
+  num2= document.getElementById("num2");
+  
+  xhttp.open("GET", "https://y19atxa68b.execute-api.ap-southeast-1.amazonaws.com/prod/addnumber?"+"num1="+num1.value+"&num2="+num2.value, true);
+  xhttp.send();
+}
+
+</script>
+
+<br/>
+<input id="num1" type="text" name="num1" />
+<br/>
+<input id="num2" type="text" name="num2" />
+<br/>
+<input type="button" name="submit" value="ADD" onClick="add();"/>
+</form>
+
+<p id="result"> </p>
+
+</body>
+</html>
